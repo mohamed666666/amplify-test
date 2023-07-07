@@ -1,0 +1,8 @@
+{
+    "main": {
+      "header": "Welcome to the app!"
+    },
+    "contact":{
+        "content":"this is Contact page"
+    }
+  }
